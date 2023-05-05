@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate software engineer from New Jersey</h3>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://bensavary.com/](https://bensavary.com/)
 
